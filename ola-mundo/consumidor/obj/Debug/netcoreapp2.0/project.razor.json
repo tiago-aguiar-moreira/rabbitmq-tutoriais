@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\GitHub\\tiago-aguiar-moreira\\rabbitmq-tutoriais\\ola-mundo\\consumidor\\consumidor.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
